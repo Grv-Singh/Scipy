@@ -2,16 +2,23 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/Grv-Singh/SciPy)](https://repl.it/github/Grv-Singh/SciPy) for Live Interaction
 
-### The result of stitching photos is:
-![](https://raw.githubusercontent.com/Grv-Singh/Splice-Mix-Images/main/blend.png)
+### The result of combined plot is:
+![](https://github.com/Grv-Singh/Scipy/blob/master/Combined-Plot.png?raw=true)
 
-### Addition of Text:
-![](https://raw.githubusercontent.com/Grv-Singh/Splice-Mix-Images/main/addText.png)
+### The result of convolved plot is:
+![](https://github.com/Grv-Singh/Scipy/blob/master/Convolve-Image-Processing.png?raw=true)
+
+### The result of mixed graph plot is:
+![](https://github.com/Grv-Singh/Scipy/blob/master/Graphs-Mixed.png?raw=true)
+
+### The result of pandas plot is:
+![](https://github.com/Grv-Singh/Scipy/blob/master/Graphs-Pandas.png?raw=true)
+
+### The result of Histogram is:
+![](https://github.com/Grv-Singh/Scipy/blob/master/Histogram.png?raw=true)
+
+### The result of Image processing is:
+![](https://github.com/Grv-Singh/Scipy/blob/master/Image-Processing.png?raw=true)
 
 ## Program description
- * lib: PIL, numpy, numexpr
- * photo source: Photos are placed in the photos folder of the current directory by default
- * The previous photo: Defined in createNevImage, one can modify it yourself
- * alpha: modify the transparency of the previous photo, the default is 0.5, one can modify the test by yourself
- * photos: After running the code, several photos will be generated in the code directory, which are generated indirectly during running. The final photo is final.jpg
- * past.py past3.py: is the experimental code, corresponding to final2.jpg, fianl.jpg. The specific difference between the two codes is the different cascading method.
+ SciPy is an open-source library designed for mathematics, science, and engineering, integrating modules such as statistics, optimization, linear algebra, Fourier transform, signal and image processing, and ODE solver, which is one of the most important tools to perform scientific calculations using Python
